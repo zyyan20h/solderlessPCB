@@ -18,7 +18,7 @@ Add the component to your library manager;
 Design PCB using the component from the component library;
 The board will pickup footprint with bolt holes needed for each component.
 
-![](img/idesign.jpg)
+![](img/design.jpg)
 
 ## Design 3D housing
 
