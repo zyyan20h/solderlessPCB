@@ -1,8 +1,8 @@
 # solderlessPCB
 
-This is an acoompanying Autodesk Fusion 360 electronic component library for SolderlessPCB project.
-We aim to support component reusing during PCB prototyping through bolt-on 3D printed housing.
-The housing are assembled to PCBs with pre-drilled holes. To allocate holes in the PCB design, you can use the component library during your design process.
+This is an accompanying Autodesk Fusion 360 electronic component library for SolderlessPCB project.
+We aim to support component reuse during PCB prototyping through bolt-on 3D printed housing.
+The housings are assembled to PCBs with pre-drilled holes. To allocate holes in the PCB design, you can use the component library during your design process.
 The following is the step-by-step guideline.
 
 ## Installation
